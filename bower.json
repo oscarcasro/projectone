@@ -1,0 +1,23 @@
+{
+  "name": "project1",
+  "authors": [
+    "oscarcasro <oscar.castro@alumno.uttehuacan.edu.mx>"
+  ],
+  "description": "a basic bootstrap a project",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "fontawesome": "^5.0.12",
+    "jquery": "^3.3.1"
+  }
+}
